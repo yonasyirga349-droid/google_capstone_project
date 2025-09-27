@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This is my first business intelligence project following my completion of my google data analytics certificate. The data sources and business are all simulated.  I have used SQL for most of data manipulation and transformation processes, due to the large number of records, and Excel for quick insight to the structure of the database. 
+This is my first business intelligence project following my completion of my google data analytics certificate. The data sources and business are all simulated.  I have used SQL for most of data manipulation and transformation processes, due to the large number of records, and Excel for quick insight to the structure of the database, and ChatGPT for visualization. 
 
 Capstone project report instructions:
 
