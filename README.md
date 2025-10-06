@@ -3,12 +3,12 @@
 
 ## Introduction
 
-This is my first business intelligence project following my completion of my google data analytics certificate. The data sources and business are all simulated.  I have used SQL for most of data manipulation and transformation processes, due to the large number of records, and Excel for quick insight to the structure of the database, and ChatGPT for visualization. 
+ The data sources and business are all simulated.  I used SQL for most of data manipulation and transformation processes, due to the large number of records, and Excel for quick insight to the structure of the database, and ChatGPT for visualization. 
 
 Capstone project report instructions:
 
 1. A clear statement of the business task
-2. A description of al data sources used
+2. A description of all data sources used
 3. Documentation of any cleaning or manipulation of data
 4. A summary of your analysis
 5. Supporting visualizations and key findings
